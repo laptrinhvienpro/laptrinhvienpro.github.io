@@ -1,5 +1,5 @@
 * [Home](/)
-* [De](/frontend/ "Frontend")
+* [Design Pattern](/design-pattern/ "Design Pattern")
 * [Frontend](/frontend/ "Frontend")
 * [Backend](/backend/ "Backend")
 * [DevOps](/devops/ "Devops")
