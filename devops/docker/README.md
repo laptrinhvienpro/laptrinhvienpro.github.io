@@ -1,21 +1,4 @@
-## Docker là gì?
-
-### Nội dung bài viết
-
-- [1. Khái niệm Docker](#1)
-
-- [2.Cấu trúc và thành phần của Docker](#2)
-
-- [3. Network trong Docker](#3)
-
-- [4. Volume trong Docker](#4)
-
-- [5. Dockerfile](#5)
-  - [Chia sẻ một số Dockerfile](#5.1)
-  
-- [6. Docker Compose](#6)
-
-### 1. Khái niệm <a name="1"></a>
+### 1. Khái niệm
 
 Docker là một nền tảng dành cho các developer và sysadmin để **phát triển, triển khai và chạy** các ứng dụng bằng các **container**. Việc đóng gói thành container này giúp cho việc triển khai các ứng dụng trở nên dễ dàng hơn.
 
