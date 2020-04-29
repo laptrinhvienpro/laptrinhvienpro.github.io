@@ -1,3 +1,6 @@
 * [Home](/)
-* [DevOps](/devops "Devops")
+* [De](/frontend/ "Frontend")
+* [Frontend](/frontend/ "Frontend")
+* [Backend](/backend/ "Backend")
+* [DevOps](/devops/ "Devops")
 * [Author](author.md "The greatest guide in the world")

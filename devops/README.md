@@ -1,3 +1,8 @@
-# âfà
+# Devops
+Ghi chép các chủ đề liên quan tới Devops
 
-Somethign cuc cu
+- [Docker](/devops/docker "Docker")
+- [Live Stream](/devops/live-stream "Live Stream")
+
+## Nginx
+- [Webserver](/devops/nginx-webserver "Nginx - Webserver")
