@@ -1,0 +1,32 @@
+# YAML {docsify-ignore-all}
+
+### Multiline strings
+
+```yaml
+Multiline: |
+  hello
+  world
+```
+
+### Inheritance
+
+```yaml
+parent: &defaults
+  a: 2
+  b: 3
+
+child:
+  <<: *defaults
+  b: 4
+```
+
+### Reference content
+
+```yaml
+values: &ref
+  - These values
+  - will be reused below
+  
+other_values:
+  <<: *ref
+```

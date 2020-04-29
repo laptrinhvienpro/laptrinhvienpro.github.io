@@ -3,16 +3,34 @@
 - DESIGN PATTERN
     - [RESTful API](/design-pattern/restful-api)
 
+- MARKUP
+    - [Emmet](/markup/emmet)
+    - [Markdown](/markup/markdown)
+    - [Yaml](/markup/yaml)
+
 - FRONTEND
     - [HTML](/frontend/html/)
     - [CSS](/frontend/css/)
+        - [Bootstrap 4.4.x Mixins](/frontend/bootstrap)
     - [JavaScript](/frontend/js/)
-    - [Regex](/frontend/regex)
-    - [Bootstrap 4.4.x Cheatsheet](/frontend/bootstrap-cheatsheet)
-    - [Libraries & Frameworks](/frontend/libraries-frameworks/)
+    - [TypeScript](/frontend/typescript)
+    - [ReactJS](/frontend/reactjs/)
+    - [VueJS](/frontend/vuejs/)
+    - [Angular](/frontend/angular/)
+    - [NPM](/frontend/npm)
+    - [Yarn](/frontend/yarn)
+    - [Libraries](/frontend/libraries/)
 
 - BACKEND
+    - [NodeJS](/backend/nodejs/)
+    - PHP 7
+    - Spring Boot (Java)
+    - [Python](/backend/python/)
     - [GoLang](/backend/go/)
+    - SocketIO
+    - SocketCluster
+    - Kafka
+    - RabbitMQ
 
 - DATABASE
     - [MySQL](/database/mysql/)
@@ -33,6 +51,5 @@
 - OTHERS
     - [Git](/other/git/)
     - [EditorConfig](/other/editorconfig)
-    - [NPM](/other/npm)
 
 - [Author](author.md "The greatest guide in the world")
