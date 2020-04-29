@@ -2,27 +2,6 @@
 
 ### Menu
 
-[1. Giới thiệu về Reverse Proxy](#1)
-
-- [1.1 Giới thiệu ](#1.1)
-- [1.2 Mô hình cài đặt ](#1.2)
-
-[2. Tiến hành cài đặt ](#2)
-
-- [2.1 Cài đặt và cấu hình NGINX ](#2.1)
-- [2.2 Cài đặt và cấu hình Apache2 ](#2.2)
-- [2.3 Kiểm tra ](#2.3)
-
-[3. Giới hạn truy cập thư mục trên NGINX](#3)
-
-- [3.1 Cấu hình NGINX ](#3.1)
-- [3.2 Kiểm tra](#3.2)
-
-[4. BONUS: Chặn truy cập vào một số thư mục của Webserver bằng NGINX] (#3)
-
-- [4.1 Cấu hình NGINX ](#4.1)
-- [4.2 Kiểm tra](#4.2)
-
 <a name="1"></a>
 ## 1. Giới thiệu về Reverse Proxy
 

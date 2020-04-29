@@ -1,21 +1,5 @@
 # Phân tích hoạt động của Reverse Proxy có lưu cache
 
-### Menu
-
-[1. Giới thiệu ](#1)
-
-- [1.1 Mô hình ](#1.1)
-- [1.2 Lợi ích khi sử dụng Reverse Proxy ](#1.2)
-- [1.3 Mô tả hoạt động ](#1.3)
-
-[2. Phân tích hoạt động ](#2)
-
-- [2.1 Chuẩn bị](#2.1)
-- [2.2 Phân tích](#2.2)
-
-[3. Kết luận](#3)
-
-<a name="1"></a>
 ## 1. Giới thiệu
 
 - Apache:
