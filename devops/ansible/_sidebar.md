@@ -1,5 +1,10 @@
-- [👈 **BACK**](/ "Ansible")
+- [👈 **BACK**](/ "Back")
+- [Getting Starter](/devops/ansible/getting-starter)
+- [Try examples](/devops/ansible/try-examples)
+- [Playbook](/devops/ansible/ansible-playbook)
 - [Guide](/devops/ansible/ansible-guide)
 - [Roles](/devops/ansible/ansible-roles)
 - [Modules](/devops/ansible/ansible-modules)
 - [Examples](/devops/ansible/ansible-examples)
+
+- [Ansible Galaxy](/devops/ansible/ansible-galaxy)

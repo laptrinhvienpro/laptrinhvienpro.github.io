@@ -43,7 +43,7 @@
     * [Docker](/devops/docker/)
     * [Live Stream](/devops/live-stream "Live Stream")
     * [Nginx - Webserver](nginx-webserver "Nginx - Webserver")
-    * [Ansible](/devops/ansible/)
+    * [Ansible](/devops/ansible/getting-starter)
     - [Rsync](/devops/rsync)
     - [PM2](/devops/pm2)
     - [Bash](/devops/sh)
